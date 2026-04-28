@@ -3,7 +3,7 @@
 
 ---
 
-## 📦 Installation
+## 📦 Installations
 
 ### 1. Install Python dependencies
 ```bash
